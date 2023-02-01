@@ -2,7 +2,7 @@
 Stable Diffusion Pipeline
 
 
-# Install
+# Setup
 
 ## Install conda + poetry
 
