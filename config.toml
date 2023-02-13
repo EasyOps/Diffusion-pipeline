@@ -1,0 +1,9 @@
+[outputs]
+img2img = ""
+txt2img = ""
+
+
+[models]
+stable_diffusion = ""
+vae = ""
+embedding = ""
